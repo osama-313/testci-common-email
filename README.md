@@ -15,11 +15,6 @@ This repository is configured with automatic build and testing through:
 - Triggers on every push
 - Runs `mvn clean test` on Ubuntu with Java 11
 
-### TravisCI (alternative)
-- Configuration file: `.travis.yml`
-- Uses OpenJDK 11
-- Executes `mvn clean test`
-
 ## Build Status
 
 The badge at the top shows the current build status:
